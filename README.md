@@ -48,11 +48,11 @@ The following diagram shows all the modules and how each module interact with on
 </p>
 
 <p align="left">
-<img src="https://github.com/user-attachments/assets/c598c72c-6126-4bda-a2ff-fd10a0775c98" width="185" height="400" />
+<img src="https://github.com/user-attachments/assets/b27ecec2-c2bb-47f1-96e4-97efeab48112" width="185" height="400" />
  <span> &nbsp;  &nbsp; </span>
 <img src="https://github.com/user-attachments/assets/6d531909-c0b5-4225-8390-15ebbdd636bd" width="185" height="400" />
  <span> &nbsp;  &nbsp;  </span>
-<img src="https://github.com/user-attachments/assets/5be7aefc-246c-416f-9a9b-11aaddf4dc30" width="185" height="400" />
+<img src="https://github.com/user-attachments/assets/069c88a6-4bf6-49b5-8cfb-17d7c05dd5fe" width="185" height="400" />
  <span> &nbsp;  &nbsp;  </span>
 <img src="https://github.com/user-attachments/assets/6d8b183f-4770-4841-a4c2-4978231eae38" width="185" height="400" />
 </p>
