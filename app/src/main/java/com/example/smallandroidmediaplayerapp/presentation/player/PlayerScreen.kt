@@ -71,9 +71,9 @@ fun PlayerScreen(
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(16.dp)
+                .background(colorResource(R.color.page))
                 .statusBarsPadding()
-                .background(colorResource(R.color.page)),
+                .padding(16.dp),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
 

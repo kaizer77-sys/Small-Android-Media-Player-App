@@ -78,12 +78,8 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.8.7")
 
-    // Coil
-    implementation("io.coil-kt:coil-compose:2.4.0")
-
     // permissions
     implementation("com.google.accompanist:accompanist-permissions:0.35.0-alpha")
-
 
     // more icons
     implementation("androidx.compose.material:material-icons-extended:<version>")
